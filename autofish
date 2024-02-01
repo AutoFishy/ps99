@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/whyrawlinkempty/premium/main/b53b4a38fbec5bb04727c27f.lua'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AutoFishy/ps99/main/autofish"))()
